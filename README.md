@@ -1,5 +1,5 @@
 # My First Website
-Welcome to my first website project! 🎉 This repository contains the code and resources for a simple website that I created as part of my learning journey into web development.
+Welcome to my first website project! 🎉 This repository contains the code and resources for a simple website that I created as part of my learning journey into web development with the help of AI tools.
 
 📜 About This Project
 This project is a basic website designed to help beginners understand the fundamentals of web development. It includes:
